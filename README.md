@@ -7,8 +7,6 @@
 
 - My research interests include the application of machine learning, particularly in computer vision.
 
-### Work Experience
-
 ### Projects
 Event Reservation Application | Ruby on Rails, Docker, Git, AWS
 - Created a full-stack social web application featuring event reservation functionality, enabling users to create,
